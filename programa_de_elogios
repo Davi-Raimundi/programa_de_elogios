@@ -1,0 +1,10 @@
+Programa de Elogios e Gentileza
+
+Este projeto consiste em um programa interativo em console que permite ao usuário escolher entre receber um elogio ou enviar uma mensagem de gentileza. Ao executar o programa, o usuário é apresentado a um menu com três opções: receber elogios, expressar gentileza e sair do programa. O objetivo é promover interações positivas e encorajar a gentileza entre as pessoas.
+
+Funcionalidades:
+
+O usuário pode escolher receber um elogio que reforça a autoestima.
+O usuário pode expressar gratidão através de mensagens de gentileza.
+O programa trata entradas inválidas, garantindo uma experiência de uso fluida.
+Este programa pode ser uma ótima maneira de lembrar as pessoas sobre a importância de elogiar e ser gentil.
