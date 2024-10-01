@@ -1,0 +1,15 @@
+# Programa de Elogios e Gentileza
+
+Este é um simples programa interativo que permite ao usuário escolher entre enviar um elogio ou uma mensagem de gentileza. É uma aplicação de console que visa promover interações positivas.
+
+## Funcionalidades
+
+- **Elogios:** O usuário pode receber elogios personalizados.
+- **Gentileza:** O usuário pode enviar mensagens de agradecimento.
+- **Sair:** O usuário pode encerrar o programa.
+
+## Como Usar
+
+1. Clone o repositório:
+   bash
+   git clone https://github.com/seu_usuario/seu_repositorio.git
