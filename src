@@ -1,0 +1,36 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro opcao
+
+		escreva("1) Elogios \n")
+		escreva("2) Gentileza \n")
+		escreva("3) Sair \n ")
+
+		 escreva("\n Escolha uma opção : ")
+		 leia(opcao)
+
+		 limpa()
+
+		 escolha(opcao)
+		 {
+		 	caso 1:
+		 	escreva(" Você é lindo(a)! ")
+		 	pare
+		 	
+		 	caso 2: 
+		 	escreva("Muito obrigado(a)! ")
+		 	pare
+
+		 	caso 3: 
+		 	escreva("Tchau! ")
+		 	pare
+		 	
+		 	caso contrario:
+		 	escreva("Essa opcão é inválida!1 ")
+		 }
+		 
+	}
+}
